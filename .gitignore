@@ -1,1 +1,9 @@
 autosave/
+singlePlayerMap-crash.log
+singlePlayerMap-crash.map
+*.log
+singlePlayerMap.bsp.json
+singlePlayerMap-crash.txt
+singlePlayerMap.pts
+singlePlayerMap.texinfo.json
+singlePlayerMap.leak.prt
