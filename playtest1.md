@@ -8,6 +8,6 @@ While my map was not completely blocked out at this stage, It was important to s
 
 # Takeaways
 
-. Design needds to be mroe evenly prioritized
+. Design needs to be mroe evenly prioritized
 
 . Interaction needs to be prioritized further rath than detail
