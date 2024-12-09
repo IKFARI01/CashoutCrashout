@@ -1,6 +1,6 @@
 # QuakeSinglePlayer
 
-1.[Theme & Inspiration](Theme.md)
+1.[Theme & Inspiration](theme.md)
 
 2.[Blockout](Blockout.md)
 
