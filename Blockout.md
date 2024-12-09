@@ -2,4 +2,5 @@
 Teller's room, Fish Bowl Balcony
 ![Screenshot 2024-12-08 235340](https://github.com/user-attachments/assets/e6bc8f13-8d94-4da3-84ad-f6b83f671dde)
 Vault room, guarded and with safe boxes
-[Video Walkthrough] ()
+[Video Walkthrough](https://youtu.be/wZRGpLUp_tc)
+Video WalKthrough!
