@@ -12,3 +12,6 @@ singlePlayerMap-crash-1-crash.txt
 *.pts
 *.json
 *.obj
+*.jpg
+*.txt
+*.png
