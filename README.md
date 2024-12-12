@@ -14,5 +14,5 @@
 
 4. [Iteration & Gameplay](iteration.md)
 
-5. [Lighting](light.md)
+5. [Lighting & Textures](light.md)
 
