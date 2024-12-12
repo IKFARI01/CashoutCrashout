@@ -1,6 +1,6 @@
 # Descriptiion & Video
 
-[Video Walkthrough](https://youtu.be/wZRGpLUp_tc)
+[Video Walkthrough](https://github.com/IKFARI01/CashoutCrashout/wiki/Blockout-Walkthrough)
 
 In starting my blockout, I began with a basic outline of the space, since I wanted the building to look somewhat uniform with what skyscraper buildings do, with a uniform room space throughout the floors. After that I began on basic room outlines, and where major walls would sit throughout the space, as well as the purpose of said walls.
 
