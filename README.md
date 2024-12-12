@@ -4,7 +4,7 @@
 
 2. [Blockout](Blockout.md)
 
-  # 3. Playtesting Rounds
+3. Playtesting Rounds
 
   3A. [Round 1](playtest1.md)
 
