@@ -1,4 +1,4 @@
-# QuakeSinglePlayer
+# Cashout Crashout
 
 1. [Theme & Inspiration](theme.md)
 
@@ -11,4 +11,6 @@
     3B. [Round 2](playtest2.md)
 
 4. [Iteration & Gameplay](iteration.md)
+
+5. [Lighting](light.md)
 
