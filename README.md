@@ -18,4 +18,4 @@ This map is available in the releases section of this repository!
 
 5. [Lighting & Textures](light.md)
    
-6. [Final Walkthrough](https://youtu.be/xdtGpReYuKo)
+6. [Final Walkthrough](https://github.com/IKFARI01/CashoutCrashout/wiki/Final-Walkthrough)
