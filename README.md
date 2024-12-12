@@ -6,9 +6,9 @@
 
 3. Playtesting Rounds
 
-  3A. [Round 1](playtest1.md)
+    3A. [Round 1](playtest1.md)
 
-  3B. [Round 2](playtest2.md)
+    3B. [Round 2](playtest2.md)
 
 4. [Iteration]()
 
