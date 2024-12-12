@@ -50,7 +50,7 @@ Vault Room, Last Floor
 
 ### Architectural Theme
 
-To convey my theme, I kept a very dark, but busy styling to textures, with a distinct use of marble and gold colorings, as well as a lot of art, these things being habits banks had to create a sense of wealth in the 1920's within America. There was alco a swing to a sort of red-ish, neo-gothic architecture I tried my best to replicate within the Threnchbroom limitations.
+To convey my theme, I kept a very dark, but busy styling to textures, with a distinct use of marble and gold colorings, as well as a lot of art, these things being habits banks had to create a sense of wealth in the 1920's within America. There was also a swing to a sort of red-ish, neo-gothic architecture I tried my best to replicate within the Threnchbroom limitations.
 
 Additionally in order to give the bank a true sense of place, I included a teller station, a table where people would often set up and cash checks, and an office, of which private meetings could take place. The teller's room as I call it, carries a great deal of weight in making it feel like a bank, however the vault is another room with a similar responsibility, having safe deposit boxes inside it, as well as the classic image of stacks of gold, silver, and more stored in the small room.
 
