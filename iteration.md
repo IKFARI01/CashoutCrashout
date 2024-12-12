@@ -14,10 +14,6 @@ This is when it very much became a room-to-room basis, where some rooms took a l
 
 Teller's Room, First Floor
 
-![image](https://github.com/user-attachments/assets/91a33390-5021-4d8f-9172-1b21dcb0d3ef)
-
-
-
 ![2024-12-09](https://github.com/user-attachments/assets/7690ccc4-7b68-43dc-ad08-5acae61afb13)
 
 Break Room, 1st Floor
@@ -43,10 +39,6 @@ After this I was able to focus on gameplay details, adding 2 explosion boxes to 
 Teller's Room, 1st Floor
 
 ![CashOutCrashOut_2024-12-11_20-15-17](https://github.com/user-attachments/assets/a57cf710-5bfb-4968-8b69-7cbabfc270e4)
-
-Teller's room, Fishbowl Balcony, Second Floor
-
-![CashOutCrashOut_2024-12-11_20-15-58](https://github.com/user-attachments/assets/04313251-0c66-4ddd-a43a-bb08af97aaf1)
 
 Break Room, 1st Floor
 
