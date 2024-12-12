@@ -1,6 +1,6 @@
 # Iteration 1
 
-## Descriptiion & Video
+## Description & Video
 
 [Video Walkthrough](https://youtu.be/wZRGpLUp_tc)
 
@@ -54,9 +54,11 @@ To convey my theme, I kept a very dark, but busy styling to textures, with a dis
 
 Additionally in order to give the bank a true sense of place, I included a teller station, a table where people would often set up and cash checks, and an office, of which private meetings could take place. The teller's room as I call it, carries a great deal of weight in making it feel like a bank, however the vault is another room with a similar responsibility, having safe deposit boxes inside it, as well as the classic image of stacks of gold, silver, and more stored in the small room.
 
-### How you added variety, wow moments, and moment to moment gameplay. 
+### Gameplay Variety
 
-One major wow moment I hinge on is the first room, a grand display of detail work and multiple levels of space in the single room. Not only was that sort of epicness
+One major wow moment I hinge on is the first room, a grand display of detail work and multiple levels of space in the single room. Not only was that sort of epicness in theme with the time and place. It also happens to have a lot of combat, as logically, a bank would rather prevent you from getting anywhere near the vault, then send all the forces of security until the last moment before they lose everything. 
 
-### Mention how you modified an encounter and why. Did you balance difficulty? Emphasize movement in an arena layout / combat sequence?
+To contrast this epicness, the break room is not as nice at all. After all, it's just the breakroom, not meant to be seen by any customers, and not the actual workspace of anyone. Reasonably, no effort really would be made into making it look incredibly fancy at all, and being right after the teller's room, it creates a stark contrast.
 
+### Encounter Modification
+One encounter that was modified was the vault's hallway. While they would certainly establish security here, what I found on the elevator's accent, is they all hounded at once without any placed for you to move. Foe that reason, I added an explosion box. That way, while upon first accending you might still struggle, the player can see the explosion box and on their second time up, aim directly for it, killing all enemies in that spot. 
