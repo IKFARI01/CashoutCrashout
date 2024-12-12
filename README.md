@@ -6,7 +6,7 @@ This map is available in the releases section of this repository!
 
 1. [Theme & Inspiration](theme.md)
 
-2. [Blockout](Blockout.md)
+2. [Blockout Walkthrough](https://github.com/IKFARI01/CashoutCrashout/wiki/Blockout-Walkthrough)
 
 3. Playtesting Rounds
 
